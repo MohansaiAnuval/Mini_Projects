@@ -1,0 +1,10 @@
+.items{
+  background-color: rgba(213, 213, 213, 0.526);
+  font-weight: bold;
+  color: rgb(9, 179, 217);
+}
+
+.buttonsBuy{
+  float: right;
+  color: white;
+}
